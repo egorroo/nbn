@@ -6,5 +6,8 @@ while True:
    break
  else:
      mbn.append(fvf)
-
+num = int(input("ent num:"))
+sym = input("Ent syb:")
+numsym = sym * num
+print(numsym)
 
